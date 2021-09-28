@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Languages and Tools:
-symfony php react.js github docker linux javascript node.js angular
+angular php react.js github docker linux javascript node.js  laravel
