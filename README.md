@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🛠️ Technologies & Tools
+
 It wouldn't make sense to post every tool and language I've ever worked with, but here are some I am most comfortable with at the moment.
 
          
