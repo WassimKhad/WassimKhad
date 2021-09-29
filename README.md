@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Languages and Tools:
-angular php react.js github docker linux javascript node.js  laravel
+🛠️ Technologies & Tools
+It wouldn't make sense to post every tool and language I've ever worked with, but here are some I am most comfortable with at the moment.
+
+         
